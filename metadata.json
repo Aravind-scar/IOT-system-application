@@ -1,0 +1,6 @@
+{
+  "name": "Apex Facility OS - Industrial IoT Telemetry",
+  "description": "Autonomous building management, BACnet/IP hardware telemetry, and facility calibration operating system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
